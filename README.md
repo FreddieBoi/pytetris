@@ -12,4 +12,4 @@ Controls
 
 Distribution
 ------------
-To build a Windows executable, make sure **py2exe** is installed (besides **python** and **pygame** of course), then run: `python pytetris2exe.py`. Executables are outputted to a `pytetris-dist` folder.
+First, make sure **py2exe** is installed (besides **python** and **pygame** of course), then run the command `python pytetris2exe.py` to build Windows executables. Executables are outputted to a `dist` folder.
