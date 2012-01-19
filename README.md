@@ -1,6 +1,8 @@
 pytetris
 ========
-**pytetris** is a Tetris clone written in **python** and **pygame**.
+**pytetris** is a Tetris clone written in **python** and **pygame**. It's old and kinda bad, but it was my first lines of python. Be nice! :)
+
+Run **pytetris** using the command `python pytetris.py` (requires pyhton and pygame).
 
 Controls
 --------
