@@ -4,7 +4,7 @@ pytetris
 
 Play
 ----
-Run **pytetris** through `python pytetris.py` (requires **python** and **pygame**).
+Run **pytetris** through `python -m pytetris.py` (requires **python** and **pygame**).
 
 ### Controls
 + **Left Arrow** - Move current figure to the left
